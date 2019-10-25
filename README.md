@@ -834,4 +834,5 @@ Contributions are welcome!
 * [Brandon Skerritt](https://brandonskerritt.github.io/) ([source](https://github.com/brandonskerritt/brandonskerritt.github.io)) - Blog about AI and Maths. Sometimes personal blog posts.
 * [Louis Rassaby](http://rassaby.com/) ([source](https://github.com/lrassaby/lrassaby.github.io)) - Personal blog and portfolio with masonry layout.
 * [tekkie](https://tekkie.flashbit.net/) ([source](https://github.com/ain/tekkie.flashbit.net)) - Technology blog of Ain Tohvri, CTO at Savings United, international network of digital coupon marketplaces.
+* [Zen](https://mzaini30.com/) ([source](https://github.com/mzaini30/mzaini30.github.io/)) - The collection of web apps to help life.
 
